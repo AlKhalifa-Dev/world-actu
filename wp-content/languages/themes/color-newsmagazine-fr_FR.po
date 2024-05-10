@@ -1,0 +1,1521 @@
+# Translation of Themes - Color Newsmagazine in French (France)
+# This file is distributed under the same license as the Themes - Color Newsmagazine package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-25 17:28:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Color Newsmagazine\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Color Newsmagazine"
+msgstr "Color Newsmagazine"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Color NewsMagazine is a free WordPress theme. It is designed to build a magazine and newspaper website. Its blog design is also suitable for a professional blogger who likes to have multi-variant colors on their website.  A unique feature of this theme is dynamically changeable highlighted color during each loading of your website.  Posts can be filtered by comments number, author, random date and recent date. Demo is here https://postmagthemes.com/democolornewsmagazine/ ."
+msgstr "Color NewsMagazine est un thème WordPress gratuit. Il est conçu pour créer un site de magazine et de journal. Son design de blog est également adapté à un ou une blogueuse professionnelle qui aime avoir des couleurs multi-variantes sur son site. Une fonctionnalité unique de ce thème est la couleur mise en évidence dynamiquement modifiable lors de chaque chargement de votre site. Les articles peuvent être filtrés par nombre de commentaires, auteur/autrice, date aléatoire et date récente. La démo est ici https://postmagthemes.com/democolornewsmagazine/"
+
+#: inc/customizer/customizer-color.php:127
+#: inc/customizer/customizer-color.php:133
+msgid "Color"
+msgstr "Couleur"
+
+#: inc/template-tags.php:55
+msgid "%"
+msgstr "%"
+
+#: inc/template-tags.php:55
+msgid "0"
+msgstr "0"
+
+#: inc/customizer/themeoptions-panel.php:80
+msgid "Show Preloader"
+msgstr "Afficher le pré-chargeur"
+
+#: inc/customizer/themeoptions-panel.php:732
+msgid "Recommended size is 250px by 250px"
+msgstr "La taille recommandée est de 250px par 250px"
+
+#: inc/customizer/themeoptions-panel.php:177
+msgid "The number of words reads per minute"
+msgstr "Le nombre de mots lus par minute"
+
+#: inc/dropdown-category.php:28
+msgid "Among all the categories"
+msgstr "Parmi toutes les catégories"
+
+#: inc/customizer/big-news-panel.php:29 inc/customizer/main-news-panel.php:710
+#: inc/customizer/themeoptions-panel.php:587
+msgid "Select the below option to show this section in the desired location"
+msgstr "Sélectionner l’option ci-dessous pour afficher cette section à l’emplacement désiré"
+
+#: inc/theme-info/about.php:72
+msgid "Translate this theme in your local language by updating in wordpress.org"
+msgstr "Traduisez ce thème dans votre langue locale sur wordpress.org"
+
+#: inc/theme-info/about.php:73
+msgid "View the red column to translate it"
+msgstr "Voir la colonne rouge pour la traduire"
+
+#: inc/customizer/front-layouts/news-layout4.php:300
+#: inc/customizer/front-layouts/news-layout5.php:304
+#: inc/customizer/front-layouts/news-layout5.php:397
+#: inc/customizer/front-layouts/news-layout6.php:285
+#: inc/customizer/front-layouts/news-layout7.php:286
+msgid "Input 1,2,3 etc"
+msgstr "Entrée 1,2,3 etc"
+
+#: inc/customizer/big-news-panel.php:188 inc/customizer/footer-panel.php:177
+#: inc/customizer/footer-panel.php:287
+#: inc/customizer/front-layouts/news-layout2.php:326
+#: inc/customizer/header-panel.php:485 inc/customizer/main-news-panel.php:145
+#: inc/customizer/main-news-panel.php:323
+#: inc/customizer/main-news-panel.php:519
+#: inc/customizer/main-news-panel.php:692
+#: inc/customizer/themeoptions-panel.php:295
+#: inc/customizer/themeoptions-panel.php:914
+#: inc/customizer/themeoptions-panel.php:1121
+msgid "Input 3,4 etc"
+msgstr "Entrée 3,4 etc"
+
+#: inc/customizer/big-news-panel.php:89
+msgid "A prior older post to hide if below checkbox is selected"
+msgstr "Un article antérieur plus ancien à masquer si la case à cocher ci-dessous est sélectionnée"
+
+#: inc/customizer/customizer.php:66 inc/theme-info/about.php:33
+msgid "Buy Premium version"
+msgstr "Acheter la version premium"
+
+#: inc/customizer/customizer.php:56
+msgid "Documents"
+msgstr "Documents"
+
+#: inc/customizer/footer-panel.php:327 inc/customizer/header-panel.php:139
+msgid "Example: fas fa-map-pin"
+msgstr "Exemple : fas fa-map-pin"
+
+#: inc/customizer/front-layouts/news-layout3.php:184
+msgid "Video Url example"
+msgstr "Exemple d’URL vidéo"
+
+#: footer.php:96
+msgid "Proudly powered by WordPress"
+msgstr "Fièrement propulsé par WordPress"
+
+#: inc/customizer/customizer.php:78
+msgid "Generic"
+msgstr "Générique"
+
+#: inc/customizer/front-layouts/news-layout3.php:185
+msgid "https://www.youtube.com/watch?v=eR7_l-vZKJM"
+msgstr "https://www.youtube.com/watch?v=eR7_l-vZKJM"
+
+#: inc/customizer/customizer.php:65
+msgid "Go to Pro"
+msgstr "Passer en Pro"
+
+#: inc/customizer/customizer.php:91
+msgid "Specific"
+msgstr "Spécifique"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:100
+msgid "Theme: %2$s by  %1$s"
+msgstr "Thème : %2$s par %1$s"
+
+#: inc/customizer/customizer.php:77 inc/customizer/customizer.php:90
+#: inc/customizer/customizer.php:183 inc/customizer/customizer.php:196
+msgid "View"
+msgstr "Vue"
+
+#: inc/customizer/front-layouts/news-layout1.php:16
+msgid " Block One sub section"
+msgstr " Sous-section du bloc 1"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:64
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:244
+msgid "Minute %s"
+msgstr "%s minute"
+
+#: inc/template-tags.php:55
+msgid "1"
+msgstr "1"
+
+#: inc/breadcrumbs.php:237
+msgid "404 Not Found"
+msgstr "404 non trouvée"
+
+#: inc/breadcrumbs.php:748 inc/breadcrumbs.php:777 inc/breadcrumbs.php:804
+#: inc/breadcrumbs.php:831 inc/breadcrumbs.php:1172
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "A"
+
+#: inc/breadcrumbs.php:236
+msgid "Home"
+msgstr "Accueil"
+
+#: inc/theme-info/about.php:41
+msgid "Recommended Actions"
+msgstr "Actions recommandées"
+
+#: inc/theme-info/class-about.php:555
+msgid "Activate"
+msgstr "Activer"
+
+#: inc/customizer/front-layouts/news-layout3.php:148
+msgid "Enable single video page layout"
+msgstr "Activer la mise en page de page de vidéo unique"
+
+#: inc/customizer/themeoptions-panel.php:826
+msgid "Enable Block One section at sidebar"
+msgstr "Activer la section de bloc 1 dans la colonne latérale"
+
+#: inc/customizer/themeoptions-panel.php:1035
+msgid "Enable Block Two section at sidebar"
+msgstr "Activer la section de bloc 2 dans la colonne latérale"
+
+#: inc/customizer/themeoptions-panel.php:247
+msgid "Enable Header Slider section"
+msgstr "Activer la section de diaporama d’en-tête"
+
+#: inc/customizer/footer-panel.php:95
+msgid "Enable Footer Slider section"
+msgstr "Activer la section de diaporama de pied de page"
+
+#: inc/customizer/footer-panel.php:242
+msgid "Enable Footer News section"
+msgstr "Activer la section des info du pied de page"
+
+#: inc/customizer/header-panel.php:402
+msgid "Enable Hot News section"
+msgstr "Activer la section des info fraîches"
+
+#: inc/customizer/header-panel.php:70
+msgid "Enable Top Address and Date section"
+msgstr "Activer la section haute d’adresse et de date"
+
+#: inc/customizer/front-layouts/blog-only.php:65
+msgid "Enable Blog Post sub section"
+msgstr "Activer la sous-section d’article de blog"
+
+#: inc/customizer/front-layouts/news-layout1.php:76
+msgid "Enable Block One sub section"
+msgstr "Activer la sous-section de bloc 1"
+
+#: inc/customizer/front-layouts/news-layout2.php:78
+msgid "Enable Block Two sub section"
+msgstr "Activer la sous-section de bloc 2"
+
+#: inc/customizer/front-layouts/news-layout3.php:103
+msgid "Enable Block Three sub section"
+msgstr "Activer la sous-section de bloc 3"
+
+#: inc/customizer/front-layouts/news-layout4.php:91
+msgid "Enable Block Four sub section"
+msgstr "Activer la sous-section de bloc 4"
+
+#: inc/customizer/front-layouts/news-layout5.php:78
+msgid "Enable Block Five sub section"
+msgstr "Activer la sous-section de bloc 5"
+
+#: inc/customizer/front-layouts/news-layout6.php:77
+msgid "Enable Block Six sub section"
+msgstr "Activer la sous-section de bloc 6"
+
+#: inc/customizer/front-layouts/news-layout7.php:77
+msgid "Enable Block Seven sub section"
+msgstr "Activer la sous-section de bloc 7"
+
+#: inc/customizer/themeoptions-panel.php:617
+msgid "Show it on single post and page detail"
+msgstr "Afficher ceci sur l’article unique et la page de détails"
+
+#: inc/customizer/front-layouts/blog-only.php:195
+msgid "Show related post"
+msgstr "Afficher l’article similaire"
+
+#: inc/customizer/front-layouts/blog-only.php:122
+#: inc/customizer/front-layouts/news-layout1.php:99
+#: inc/customizer/front-layouts/news-layout2.php:101
+#: inc/customizer/front-layouts/news-layout3.php:176
+#: inc/customizer/front-layouts/news-layout4.php:114
+#: inc/customizer/front-layouts/news-layout5.php:101
+#: inc/customizer/front-layouts/news-layout6.php:100
+#: inc/customizer/front-layouts/news-layout7.php:100
+#: inc/customizer/themeoptions-panel.php:987
+#: inc/customizer/themeoptions-panel.php:1181
+msgid "Show author"
+msgstr "Afficher l’auteur ou l’autrice"
+
+#: inc/customizer/themeoptions-panel.php:689
+msgid "Show site author"
+msgstr "Afficher l’auteur ou l’autrice du site"
+
+#: inc/customizer/themeoptions-panel.php:550
+msgid "Show author email"
+msgstr "Afficher l’e-mail de l’auteur ou l’autrice"
+
+#: inc/customizer/footer-panel.php:259
+#: inc/customizer/front-layouts/blog-only.php:141
+#: inc/customizer/front-layouts/news-layout1.php:123
+#: inc/customizer/front-layouts/news-layout2.php:125
+#: inc/customizer/front-layouts/news-layout3.php:180
+#: inc/customizer/front-layouts/news-layout4.php:138
+#: inc/customizer/front-layouts/news-layout5.php:125
+#: inc/customizer/front-layouts/news-layout6.php:124
+#: inc/customizer/front-layouts/news-layout7.php:124
+#: inc/customizer/header-panel.php:93 inc/customizer/main-news-panel.php:159
+#: inc/customizer/main-news-panel.php:337
+#: inc/customizer/themeoptions-panel.php:315
+#: inc/customizer/themeoptions-panel.php:383
+#: inc/customizer/themeoptions-panel.php:928
+#: inc/customizer/themeoptions-panel.php:1135
+msgid "Show date"
+msgstr "Afficher la date"
+
+#: inc/customizer/themeoptions-panel.php:567
+msgid "Show author description"
+msgstr "Afficher la description de l’auteur ou l’autrice"
+
+#: inc/customizer/themeoptions-panel.php:128
+msgid "Show for read more popup"
+msgstr "Afficher la fenêtre surgissante pour lire la suite"
+
+#: inc/customizer/front-layouts/news-layout2.php:149
+msgid "Show button"
+msgstr "Afficher le bouton"
+
+#: inc/customizer/front-layouts/blog-only.php:177
+msgid "Show read more button"
+msgstr "Afficher le bouton Lire la suite"
+
+#: inc/customizer/front-layouts/blog-only.php:159
+#: inc/customizer/front-layouts/news-layout1.php:146
+#: inc/customizer/front-layouts/news-layout2.php:172
+#: inc/customizer/front-layouts/news-layout4.php:161
+#: inc/customizer/front-layouts/news-layout5.php:148
+#: inc/customizer/front-layouts/news-layout6.php:147
+#: inc/customizer/front-layouts/news-layout7.php:147
+#: inc/customizer/main-news-panel.php:174
+#: inc/customizer/main-news-panel.php:352
+#: inc/customizer/themeoptions-panel.php:401
+#: inc/customizer/themeoptions-panel.php:942
+msgid "Show comment number"
+msgstr "Afficher le nombre de commentaires"
+
+#: inc/customizer/front-layouts/blog-only.php:228
+#: inc/customizer/front-layouts/news-layout1.php:169
+#: inc/customizer/front-layouts/news-layout2.php:195
+#: inc/customizer/front-layouts/news-layout4.php:184
+#: inc/customizer/front-layouts/news-layout5.php:171
+#: inc/customizer/front-layouts/news-layout6.php:169
+#: inc/customizer/front-layouts/news-layout7.php:171
+#: inc/customizer/main-news-panel.php:190
+#: inc/customizer/main-news-panel.php:367
+#: inc/customizer/main-news-panel.php:568
+#: inc/customizer/themeoptions-panel.php:329
+#: inc/customizer/themeoptions-panel.php:431
+#: inc/customizer/themeoptions-panel.php:957
+#: inc/customizer/themeoptions-panel.php:1150
+msgid "Show reading time"
+msgstr "Afficher le temps de lecture"
+
+#: inc/customizer/front-layouts/blog-only.php:211
+#: inc/customizer/front-layouts/news-layout1.php:194
+#: inc/customizer/front-layouts/news-layout2.php:219
+#: inc/customizer/front-layouts/news-layout4.php:209
+#: inc/customizer/front-layouts/news-layout5.php:196
+#: inc/customizer/front-layouts/news-layout6.php:194
+#: inc/customizer/front-layouts/news-layout7.php:196
+#: inc/customizer/main-news-panel.php:206
+#: inc/customizer/main-news-panel.php:383
+#: inc/customizer/main-news-panel.php:552
+#: inc/customizer/themeoptions-panel.php:415
+#: inc/customizer/themeoptions-panel.php:973
+#: inc/customizer/themeoptions-panel.php:1166
+msgid "Show time ago"
+msgstr "Afficher le temps passé"
+
+#: inc/customizer/themeoptions-panel.php:63
+msgid "Show widget placed on Body block section bar area in blog page"
+msgstr "Afficher le widget placé dans la zone de la barre de section de bloc de corps sur la page du blog"
+
+#: inc/customizer/themeoptions-panel.php:480
+msgid "Show related post by tag"
+msgstr "Afficher les articles similaires par étiquette"
+
+#: inc/customizer/themeoptions-panel.php:532
+msgid "Show author detail"
+msgstr "Afficher les détails de l’auteur/autrice"
+
+#: inc/customizer/header-panel.php:191
+msgid "Show social links"
+msgstr "Afficher les liens sociaux"
+
+#: inc/customizer/themeoptions-panel.php:760
+msgid "Author social Links"
+msgstr "Afficher les liens sociaux de l’auteur/autrice"
+
+#: inc/customizer/themeoptions-panel.php:364
+msgid "Show meta detail"
+msgstr "Afficher les méta-détails"
+
+#: inc/customizer/footer-panel.php:193
+msgid "Show Location and Social link section"
+msgstr "Afficher les sections de localisation et de liens sociaux"
+
+#: inc/repeater/class-control-repeater.php:443
+#: inc/repeater/class-control-repeater.php:447
+msgid "Add File"
+msgstr "Ajouter un fichier"
+
+#. translators: %s: Add new Text.
+#: inc/repeater/class-control-repeater.php:83
+msgid "Add new %s"
+msgstr "Ajouter un nouveau %s"
+
+#: inc/repeater/class-control-repeater.php:407
+#: inc/repeater/class-control-repeater.php:411
+msgid "Add Image"
+msgstr "Ajouter une image"
+
+#: inc/customizer/big-news-panel.php:141 inc/customizer/footer-panel.php:133
+#: inc/customizer/front-layouts/news-layout1.php:257
+#: inc/customizer/front-layouts/news-layout2.php:262
+#: inc/customizer/front-layouts/news-layout4.php:250
+#: inc/customizer/front-layouts/news-layout5.php:273
+#: inc/customizer/front-layouts/news-layout5.php:365
+#: inc/customizer/front-layouts/news-layout6.php:235
+#: inc/customizer/front-layouts/news-layout7.php:237
+#: inc/customizer/header-panel.php:438 inc/customizer/main-news-panel.php:98
+#: inc/customizer/main-news-panel.php:274
+#: inc/customizer/main-news-panel.php:469
+#: inc/customizer/main-news-panel.php:644
+#: inc/customizer/themeoptions-panel.php:281
+#: inc/customizer/themeoptions-panel.php:865
+#: inc/customizer/themeoptions-panel.php:1074
+msgid "Random"
+msgstr "Aléatoire"
+
+#: header.php:41
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: inc/theme-info/about.php:65
+msgid "Go to Customizer"
+msgstr "Aller dans la personnalisation"
+
+#: inc/customizer/main-news-panel.php:524 sections/section-main-news.php:150
+msgid "date"
+msgstr "amoureuse/amoureux"
+
+#: inc/breadcrumbs.php:238
+msgid "Archives"
+msgstr "Archives"
+
+#: inc/customizer/front-layouts/blog-only.php:50
+#: inc/customizer/front-layouts/news-layout1.php:51
+#: inc/customizer/front-layouts/news-layout2.php:53
+#: inc/customizer/front-layouts/news-layout3.php:55
+#: inc/customizer/front-layouts/news-layout4.php:52
+#: inc/customizer/front-layouts/news-layout5.php:53
+#: inc/customizer/front-layouts/news-layout6.php:52
+#: inc/customizer/front-layouts/news-layout7.php:52
+#: inc/customizer/header-panel.php:315 inc/customizer/header-panel.php:337
+#: inc/customizer/header-panel.php:359
+msgid "None"
+msgstr "Aucun"
+
+#: inc/repeater/class-control-repeater.php:432
+#: inc/repeater/class-control-repeater.php:437
+msgid "No File Selected"
+msgstr "Aucun fichier sélectionné"
+
+#: inc/repeater/class-control-repeater.php:396
+#: inc/repeater/class-control-repeater.php:401
+msgid "No Image Selected"
+msgstr "Aucune image sélectionnée"
+
+#: inc/customizer/main-news-panel.php:524 sections/section-main-news.php:143
+msgid "author"
+msgstr "auteur/autrice"
+
+#: inc/customizer/themeoptions-panel.php:34
+msgid "Other settings"
+msgstr "Autres réglages"
+
+#: inc/theme-info/class-about.php:164
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our %2$swelcome page%3$s."
+msgstr "Bienvenue ! Merci d’avoir choisi %1$s ! Pour tirer pleinement avantage de notre meilleur thème, n’oubliez pas de vous rendre sur notre %2$spage de bienvenue%3$s."
+
+#. translators: theme version
+#: inc/theme-info/about.php:13
+msgid "Welcome to %s - "
+msgstr "Bienvenue dans %s - "
+
+#: inc/customizer/footer-panel.php:300 inc/customizer/header-panel.php:112
+msgid "Bnews24, New York"
+msgstr "Bnews24, New York"
+
+#: inc/customizer/main-news-panel.php:524 sections/section-main-news.php:134
+msgid "category"
+msgstr "catégorie"
+
+#: inc/customizer/themeoptions-panel.php:248
+msgid "This slider shows related posts to current post by category"
+msgstr "Ce diaporama affiche les articles similaires à l’article actuel par catégorie"
+
+#: inc/customizer/themeoptions-panel.php:481
+msgid "These three posts show the related posts to current post-viewing by tag"
+msgstr "Ces trois articles affichent les articles similaires à l’article actuel par étiquette"
+
+#: inc/repeater/class-control-repeater.php:407
+#: inc/repeater/class-control-repeater.php:409
+msgid "Change Image"
+msgstr "Changer l’image"
+
+#: inc/repeater/class-control-repeater.php:443
+#: inc/repeater/class-control-repeater.php:445
+msgid "Change File"
+msgstr "Changer le fichier"
+
+#: inc/customizer/themeoptions-panel.php:635
+msgid "Right sidebar"
+msgstr "Colonne latérale de droite"
+
+#: inc/customizer/themeoptions-panel.php:636
+msgid "Left sidebar"
+msgstr "Colonne latérale gauche"
+
+#: inc/customizer/front-layouts/blog-only.php:99
+msgid "Single column"
+msgstr "Colonne unique"
+
+#: inc/customizer/main-news-panel.php:524 sections/section-main-news.php:156
+msgid "comments"
+msgstr "commentaires"
+
+#: inc/theme-info/about.php:9 inc/theme-info/about.php:10
+msgid "Color newsmagazine setup"
+msgstr "Configurer Color Newsmagazine"
+
+#: inc/customizer/footer-panel.php:337 inc/customizer/header-panel.php:149
+msgid "contact"
+msgstr "contact"
+
+#: inc/theme-info/about.php:99 inc/theme-info/about.php:101
+msgid "Contact Support"
+msgstr "Contacter le support"
+
+#: inc/customizer/customizer-color.php:13
+#: inc/customizer/customizer-color.php:19
+msgid "Background Color"
+msgstr "Couleur d’arrière-plan"
+
+#: inc/customizer/customizer-color.php:80
+msgid "Top address background color"
+msgstr "Couleur d’arrière-plan de l’adresse haute"
+
+#: inc/customizer/customizer-color.php:94
+msgid "Hot news background color"
+msgstr "Couleur d’arrière-plan des info fraîches"
+
+#: inc/customizer/customizer-color.php:54
+msgid "Menu background color"
+msgstr "Couleur d’arrière-plan du menu"
+
+#: inc/customizer/customizer-color.php:67
+msgid "Site title background color"
+msgstr "Couleur d’arrière-plan du titre du site"
+
+#: inc/customizer/customizer-color.php:179
+msgid "Theme text color"
+msgstr "Couleur de texte du thème"
+
+#: inc/customizer/customizer-color.php:26
+msgid "Main background color"
+msgstr "Couleur principale d’arrière-plan"
+
+#: inc/customizer/customizer-color.php:164
+msgid "Primary theme color"
+msgstr "Couleur principale du thème"
+
+#: inc/theme-info/class-about.php:164
+msgid "Get started with %s"
+msgstr "Démarrer avec %s"
+
+#: inc/theme-info/class-about.php:559
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: inc/customizer/themeoptions-panel.php:719
+msgid "Author description"
+msgstr "Description de l’auteur ou de l’autrice"
+
+#: inc/theme-info/about.php:21
+msgid "Theme Details"
+msgstr "Détails du thème"
+
+#: inc/customizer/big-news-panel.php:139 inc/customizer/footer-panel.php:131
+#: inc/customizer/front-layouts/news-layout1.php:255
+#: inc/customizer/front-layouts/news-layout2.php:260
+#: inc/customizer/front-layouts/news-layout4.php:248
+#: inc/customizer/front-layouts/news-layout5.php:271
+#: inc/customizer/front-layouts/news-layout5.php:363
+#: inc/customizer/front-layouts/news-layout6.php:233
+#: inc/customizer/front-layouts/news-layout7.php:235
+#: inc/customizer/header-panel.php:436 inc/customizer/main-news-panel.php:96
+#: inc/customizer/main-news-panel.php:272
+#: inc/customizer/main-news-panel.php:467
+#: inc/customizer/main-news-panel.php:642
+#: inc/customizer/themeoptions-panel.php:279
+#: inc/customizer/themeoptions-panel.php:863
+#: inc/customizer/themeoptions-panel.php:1072
+msgid "Recent publish date"
+msgstr "Date de publication récente"
+
+#: inc/customizer/customizer-color.php:205
+msgid "Different dynamically change"
+msgstr "Différents changements dynamiques"
+
+#: inc/customizer/customizer-color.php:206
+msgid "Different but static"
+msgstr "Différents mais statiques"
+
+#: inc/theme-info/about.php:107
+msgid "Theme Documentation"
+msgstr "Documentation du thème"
+
+#: inc/customizer/front-layouts/blog-only.php:100
+msgid "Double column"
+msgstr "Double colonne"
+
+#: inc/customizer/front-layouts/blog-only.php:102
+msgid "Double column with feature"
+msgstr "Double colonne avec fonctionnalité"
+
+#: inc/customizer/footer-panel.php:322
+msgid "Bottom footer contact items"
+msgstr "Éléments de contact du pied de page"
+
+#: inc/customizer/header-panel.php:272
+msgid "Header Advertisement section"
+msgstr "En-tête de section de publicité"
+
+#: inc/customizer/header-panel.php:134
+msgid "Top Header Contact items"
+msgstr "En-tête haut d’éléments de contact"
+
+#: footer.php:26 inc/customizer/footer-panel.php:202
+msgid "Get in touch"
+msgstr "Entrez en contact"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:67
+msgid "Tagged %1$s "
+msgstr "Étiqueté avec %1$s "
+
+#: inc/customizer/footer-panel.php:388 inc/customizer/header-panel.php:240
+#: inc/customizer/themeoptions-panel.php:765
+msgid "Example: fab fa-facebook"
+msgstr "Exemple : fab fa-facebook"
+
+#: inc/customizer/footer-panel.php:393 inc/customizer/header-panel.php:245
+#: inc/customizer/themeoptions-panel.php:770
+msgid "Example: http://facebook.com"
+msgstr "Exemple : http://facebook.com"
+
+#: inc/breadcrumbs.php:235
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Fil d’Ariane"
+
+#: inc/customizer/header-panel.php:170
+msgid "Manage social link display on the top"
+msgstr "Gérer l’affichage des liens sociaux du haut"
+
+#: inc/customizer/themeoptions-panel.php:599
+msgid "Manage content at Sidebar Content section"
+msgstr "Gérer le contenu dans la section de contenu de la colonne latérale"
+
+#: inc/customizer/header-panel.php:273
+msgid "Manage content in the Advertisement section of the header"
+msgstr "Gérer le contenu dans la section de publicité de l’en-tête"
+
+#: inc/customizer/main-news-panel.php:404
+msgid "Manage content at Main News Slider section."
+msgstr "Gérer le contenu de la section de diaporama des info principales."
+
+#: inc/customizer/footer-panel.php:46
+msgid "Manage content of Footer Slider section at the footer"
+msgstr "Gérer le contenu de la section de diaporama du pied de page"
+
+#: inc/customizer/footer-panel.php:35
+msgid "Manage content of Location and Social link section at the footer"
+msgstr "Gérer le contenu de la section de localisation et de lien social du pied de page"
+
+#: inc/customizer/footer-panel.php:57
+msgid "Manage content of Footer news section at the footer"
+msgstr "Gérer le contenu de la section des info du pied de page"
+
+#: inc/customizer/header-panel.php:380
+msgid "Manage content at Hot News section."
+msgstr "Gérer le contenu de la section des info fraîches."
+
+#: inc/customizer/main-news-panel.php:46
+msgid "Manage content at Main News Left Sidebar section."
+msgstr "Gérer le contenu de la section des info principales de la colonne latérale de gauche."
+
+#: inc/customizer/main-news-panel.php:225
+msgid "Manage content at Main News Right Sidebar section."
+msgstr "Gérer le contenu de la section des nouvelles principales de la colonne de droite."
+
+#: inc/customizer/main-news-panel.php:590
+msgid "Manage content at Main News Central Lower Slider section."
+msgstr "Gérer le contenu de la section du diaporama central des info principales."
+
+#: inc/customizer/header-panel.php:49
+msgid "Manage content at Top Address and Date section"
+msgstr "Gérer le contenu de la section haute d’adresse et de date"
+
+#: inc/breadcrumbs.php:732
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "h"
+
+#: inc/breadcrumbs.php:698
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "h : min"
+
+#: inc/customizer/header-panel.php:312
+msgid "Here, First advertisement bar is a widget area. Please add HTML or Image widget in this bar from admin menu"
+msgstr "Ici, la première barre de publicité est une zone de widgets. Veuillez ajouter un widget HTML ou image dans cette barre depuis le menu d’administration"
+
+#: inc/customizer/footer-panel.php:326 inc/customizer/footer-panel.php:387
+#: inc/customizer/header-panel.php:138 inc/customizer/header-panel.php:239
+#: inc/customizer/themeoptions-panel.php:764
+msgid "Font Awesome Icon"
+msgstr "Icône Font Awesome"
+
+#: inc/customizer/customizer-color.php:204
+msgid "Same as primary theme color"
+msgstr "Identique à la couleur principale du thème"
+
+#: inc/customizer/front-layouts/news-layout4.php:69
+#: inc/customizer/main-news-panel.php:432
+msgid "Background image"
+msgstr "Image d’arrière-plan"
+
+#: inc/customizer/header-panel.php:17
+msgid "Header Image"
+msgstr "Image d’en-tête"
+
+#: inc/customizer/themeoptions-panel.php:730
+msgid "Author image"
+msgstr "Image de l’auteur/autrice"
+
+#: inc/theme-info/about.php:86
+msgid "PostmagThemes Demo Import"
+msgstr "Importer la démo de PostmagThemes"
+
+#: inc/theme-info/class-about.php:551
+msgid "Install"
+msgstr "Installer"
+
+#: inc/breadcrumbs.php:750 inc/breadcrumbs.php:1180
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/customizer/footer-panel.php:308 inc/customizer/header-panel.php:120
+msgid "International Paper"
+msgstr "Journal international"
+
+#: inc/customizer/big-news-panel.php:64 inc/customizer/main-news-panel.php:739
+msgid "Show it in all the places"
+msgstr "L’afficher partout"
+
+#: inc/customizer/customizer-color.php:202
+msgid "Secondary theme color is a color that is shown as a vertical or horizontal highlighted line"
+msgstr "La couleur secondaire du thème est une couleur qui apparaît sous la forme d’une ligne verticale ou horizontale mise en évidence"
+
+#: inc/customizer/themeoptions-panel.php:109
+msgid "Excerpt Length determines the no of words in short description."
+msgstr "La longueur de l’extrait détermine le nombre de mots de la description courte."
+
+#: inc/customizer/footer-panel.php:392 inc/customizer/header-panel.php:244
+#: inc/customizer/themeoptions-panel.php:769
+msgid "Link"
+msgstr "Lien"
+
+#: inc/repeater/class-control-repeater.php:74
+msgid "row"
+msgstr "ligne"
+
+#. translators: %s: Limit Number.
+#: inc/repeater/class-control-repeater.php:239
+msgid "Limit: %s rows"
+msgstr "Limite : %s lignes"
+
+#: inc/customizer/front-layouts/blog-only.php:101
+msgid "List"
+msgstr "Liste"
+
+#: inc/customizer/themeoptions-panel.php:108
+msgid "Excerpt Length"
+msgstr "Longueur de l’extrait"
+
+#: inc/breadcrumbs.php:715
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "m"
+
+#: inc/breadcrumbs.php:749 inc/breadcrumbs.php:805 inc/breadcrumbs.php:1176
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "M"
+
+#: inc/customizer/front-panel.php:73 inc/customizer/front-panel.php:100
+#: inc/customizer/front-panel.php:127 inc/customizer/front-panel.php:155
+#: inc/customizer/front-panel.php:183 inc/customizer/front-panel.php:212
+#: inc/customizer/front-panel.php:241 inc/customizer/front-panel.php:268
+msgid "Hide"
+msgstr "Masquer"
+
+#: inc/customizer/main-news-panel.php:709
+msgid "Main News layout"
+msgstr "Mise en page des actualités principales"
+
+#: inc/customizer/big-news-panel.php:140 inc/customizer/footer-panel.php:132
+#: inc/customizer/front-layouts/news-layout1.php:256
+#: inc/customizer/front-layouts/news-layout2.php:261
+#: inc/customizer/front-layouts/news-layout4.php:249
+#: inc/customizer/front-layouts/news-layout5.php:272
+#: inc/customizer/front-layouts/news-layout5.php:364
+#: inc/customizer/front-layouts/news-layout6.php:234
+#: inc/customizer/front-layouts/news-layout7.php:236
+#: inc/customizer/header-panel.php:437 inc/customizer/main-news-panel.php:97
+#: inc/customizer/main-news-panel.php:273
+#: inc/customizer/main-news-panel.php:468
+#: inc/customizer/main-news-panel.php:643
+#: inc/customizer/themeoptions-panel.php:280
+#: inc/customizer/themeoptions-panel.php:864
+#: inc/customizer/themeoptions-panel.php:1073
+msgid "Comment count"
+msgstr "Nombre de commentaires"
+
+#: inc/customizer/big-news-panel.php:187 inc/customizer/footer-panel.php:176
+#: inc/customizer/footer-panel.php:286
+#: inc/customizer/front-layouts/news-layout1.php:305
+#: inc/customizer/front-layouts/news-layout2.php:325
+#: inc/customizer/front-layouts/news-layout4.php:299
+#: inc/customizer/front-layouts/news-layout5.php:303
+#: inc/customizer/front-layouts/news-layout5.php:396
+#: inc/customizer/front-layouts/news-layout6.php:284
+#: inc/customizer/front-layouts/news-layout7.php:285
+#: inc/customizer/header-panel.php:484 inc/customizer/main-news-panel.php:144
+#: inc/customizer/main-news-panel.php:322
+#: inc/customizer/main-news-panel.php:518
+#: inc/customizer/main-news-panel.php:691
+#: inc/customizer/themeoptions-panel.php:294
+#: inc/customizer/themeoptions-panel.php:913
+#: inc/customizer/themeoptions-panel.php:1120
+msgid "Maximum number of posts to show"
+msgstr "Nombre maximum d’articles à afficher"
+
+#. translators: 1: theme name
+#: inc/theme-info/about.php:16
+msgid "We hope this page will help you to setup %1$s with few clicks. We believe you will find it easy to use and perfect for your website development."
+msgstr "Nous espérons que cette page vous aidera à configurer %1$s en quelques clics. Nous croyons que vous le trouverez facile à utiliser et parfait pour le développement de votre site."
+
+#: inc/theme-info/about.php:56
+msgid "We recommend few steps to take so that you can get a complete site like shown in the demo."
+msgstr "Nous vous recommandons quelques étapes à suivre afin d’obtenir un site complet comme celui présenté dans la démo."
+
+#: inc/customizer/footer-panel.php:304 inc/customizer/header-panel.php:116
+msgid "Toll Free 1660-6767-8909"
+msgstr "Numéro gratuit 1660-6767-8909"
+
+#: inc/customizer/themeoptions-panel.php:18
+msgid "Theme options"
+msgstr "Options du thème"
+
+#: inc/customizer/front-panel.php:53
+msgid "Block sub section ordering"
+msgstr "Ordre de sous-section de bloc"
+
+#: inc/customizer/front-layouts/news-layout3.php:124
+msgid "Eg: https://www.youtube.com/embed/yCVOCSlzQno"
+msgstr "P. ex. : https://www.youtube.com/embed/yCVOCSlzQno"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:242
+msgid "Page %s"
+msgstr "Page %s"
+
+#. translators: %s: post author.
+#: inc/template-tags.php:39
+msgctxt "post author"
+msgid "by %s"
+msgstr "par %s"
+
+#: inc/breadcrumbs.php:234
+msgid "Browse:"
+msgstr "Parcourir :"
+
+#: inc/theme-info/class-about.php:593
+msgid "Upgrade to Pro"
+msgstr "Passer à la version Pro"
+
+#: inc/customizer/big-news-panel.php:105
+msgid "Enable hiding post older than selected time in an hour in the above settings"
+msgstr "Permet de masquer les articles plus anciens que le temps sélectionné dans une heure dans les réglages ci-dessus"
+
+#: inc/theme-info/about.php:64
+msgid "Customize Everything"
+msgstr "Personnalisez tout"
+
+#: inc/customizer/themeoptions-panel.php:489 inc/related-post.php:19
+#: news-layouts/layouts-1.php:141
+msgid "More Stories"
+msgstr "Plus d’histoires"
+
+#: inc/customizer/front-layouts/blog-only.php:51
+#: inc/customizer/front-layouts/news-layout1.php:52
+#: inc/customizer/front-layouts/news-layout2.php:54
+#: inc/customizer/front-layouts/news-layout3.php:56
+#: inc/customizer/front-layouts/news-layout4.php:53
+#: inc/customizer/front-layouts/news-layout5.php:54
+#: inc/customizer/front-layouts/news-layout6.php:53
+#: inc/customizer/front-layouts/news-layout7.php:53
+#: inc/customizer/header-panel.php:316 inc/customizer/header-panel.php:338
+#: inc/customizer/header-panel.php:360
+msgid "First advertisement bar"
+msgstr "Première barre de publicité"
+
+#: inc/theme-info/about.php:40
+msgid "Getting Started"
+msgstr "Premiers pas"
+
+#: inc/customizer/footer-panel.php:34
+msgid "Location and Social link setting"
+msgstr "Réglage de localisation et de liens sociaux"
+
+#: inc/customizer/themeoptions-panel.php:449
+msgid "Single post related post settings"
+msgstr "Réglages d’article similaire à l’article unique"
+
+#: inc/customizer/themeoptions-panel.php:198
+msgid "Single post settings"
+msgstr "Réglages d’article unique"
+
+#: inc/customizer/themeoptions-panel.php:514
+msgid "Single post author settings"
+msgstr "Réglages d’auteur/autrice d’article unique"
+
+#: inc/customizer/themeoptions-panel.php:658
+msgid "Site author settings"
+msgstr "Réglages d’auteur/autrice du site"
+
+#: inc/customizer/header-panel.php:31
+msgid "Header settings"
+msgstr "Réglages de l’en-tête"
+
+#: inc/customizer/customizer-color.php:42
+msgid "Header section background color settings"
+msgstr "Réglages de la couleur d’arrière-plan de la section d’en-tête"
+
+#: inc/customizer/customizer-color.php:149
+msgid "Theme color settings"
+msgstr "Réglages de la couleur du thème"
+
+#: inc/customizer/front-layouts/news-layout5.php:325
+msgid "Second column post settings"
+msgstr "Réglages de la deuxième colonne de publication"
+
+#: inc/customizer/themeoptions-panel.php:586
+#: inc/customizer/themeoptions-panel.php:631
+msgid "Sidebar layout settings"
+msgstr "Réglages de la mise en page de la colonne latérale"
+
+#: inc/customizer/front-layouts/news-layout5.php:233
+msgid "First column post settings"
+msgstr "Réglages de la première colonne de publication"
+
+#: inc/customizer/themeoptions-panel.php:795
+msgid "Block One section settings"
+msgstr "Réglages de la section de bloc 1"
+
+#: inc/customizer/themeoptions-panel.php:1004
+msgid "Block Two section settings"
+msgstr "Réglages de la section de bloc 2"
+
+#: inc/customizer/front-panel.php:24
+msgid "Body block section settings"
+msgstr "Réglages de la section de bloc de corps"
+
+#: inc/customizer/themeoptions-panel.php:229
+msgid "Header Slider section settings"
+msgstr "Réglages de la section de diaporama d’en-tête"
+
+#: inc/customizer/big-news-panel.php:12 inc/customizer/big-news-panel.php:28
+msgid "Big News section settings"
+msgstr "Réglages de la section de grosses nouvelles"
+
+#: inc/customizer/footer-panel.php:23
+msgid "Footer section settings"
+msgstr "Réglages de la section de pied de page"
+
+#: inc/customizer/main-news-panel.php:26
+msgid "Main News section settings"
+msgstr "Réglages de la section des info principales"
+
+#: inc/customizer/themeoptions-panel.php:346
+msgid "Single post body settings"
+msgstr "Réglages du corps d’article unique"
+
+#: inc/customizer/footer-panel.php:383 inc/customizer/header-panel.php:235
+msgid "Social Links"
+msgstr "Réseaux sociaux"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: inc/breadcrumbs.php:240
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Résultats de recherche pour « %s »"
+
+#: inc/repeater/class-control-repeater.php:406
+#: inc/repeater/class-control-repeater.php:471
+msgid "Remove"
+msgstr "Retirer"
+
+#: inc/breadcrumbs.php:778
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "S"
+
+#: inc/customizer/main-news-panel.php:589
+msgid "Main News Central Lower Slider section"
+msgstr "Section centrale basse de diaporama des info principales"
+
+#: inc/customizer/main-news-panel.php:403
+msgid "Main News Central Upper Slider section"
+msgstr "Section centrale de diaporama des info principales du haut"
+
+#: inc/customizer/main-news-panel.php:224
+msgid "Main News Right Sidebar section"
+msgstr "Section d’info principales de colonne latérale de droite"
+
+#: inc/customizer/main-news-panel.php:45
+msgid "Main News Left Sidebar section"
+msgstr "Section d’info principales de colonne latérale de gauche"
+
+#: inc/customizer/themeoptions-panel.php:598
+msgid "Sidebar Content section"
+msgstr "Section de contenu de colonne latérale"
+
+#: inc/customizer/footer-panel.php:45
+msgid "Footer Slider section"
+msgstr "Section de diaporama de pied de page"
+
+#: inc/customizer/footer-panel.php:56
+msgid "Footer News section"
+msgstr "Section des info du pied de page"
+
+#: inc/customizer/header-panel.php:379
+msgid "Hot News section"
+msgstr "Section des info fraîches"
+
+#: inc/customizer/header-panel.php:48
+msgid "Top Address and Date section"
+msgstr "Section haute d’adresse et de date"
+
+#: inc/customizer/header-panel.php:169
+msgid "Top Social section"
+msgstr "Section sociale haute"
+
+#: inc/customizer/front-layouts/news-layout1.php:291
+#: inc/customizer/front-layouts/news-layout2.php:279
+#: inc/customizer/front-layouts/news-layout4.php:285
+#: inc/customizer/front-layouts/news-layout6.php:269
+#: inc/customizer/front-layouts/news-layout7.php:271
+#: inc/customizer/header-panel.php:471 inc/customizer/main-news-panel.php:131
+#: inc/customizer/themeoptions-panel.php:900
+#: inc/customizer/themeoptions-panel.php:1107
+msgid "Select author"
+msgstr "Sélectionner l’auteur/autrice"
+
+#: inc/customizer/big-news-panel.php:174 inc/customizer/footer-panel.php:163
+#: inc/customizer/main-news-panel.php:307
+#: inc/customizer/main-news-panel.php:503
+#: inc/customizer/main-news-panel.php:678
+msgid "Select post author"
+msgstr "Sélectionner l’auteur/autrice de l’article"
+
+#: inc/customizer/front-layouts/news-layout5.php:212
+msgid "Select author for both column post"
+msgstr "Sélectionner l’auteur/autrice pour les deux colonnes d’article"
+
+#: inc/customizer/header-panel.php:356
+msgid "Select option to show advertisement above main news section"
+msgstr "Sélectionner l’option pour afficher une publicité au-dessus de la section des actualités principales"
+
+#: inc/customizer/header-panel.php:311
+msgid "Select the option to show advertisement above the menu section"
+msgstr "Sélectionner l’option pour afficher une publicité au-dessus de la section du menu"
+
+#: inc/customizer/front-layouts/blog-only.php:47
+#: inc/customizer/front-layouts/news-layout2.php:50
+#: inc/customizer/front-layouts/news-layout3.php:52
+#: inc/customizer/front-layouts/news-layout4.php:49
+#: inc/customizer/front-layouts/news-layout5.php:50
+#: inc/customizer/front-layouts/news-layout6.php:49
+#: inc/customizer/front-layouts/news-layout7.php:49
+msgid "Select option to show advertisement at the top of this block section"
+msgstr "Sélectionner l’option pour afficher une publicité en haut de cette section de bloc"
+
+#: inc/customizer/front-layouts/news-layout1.php:48
+msgid "Select the option to show advertisement at the top of this block section"
+msgstr "Sélectionner l’option pour afficher une publicité en haut de cette section de bloc"
+
+#: inc/customizer/header-panel.php:334
+msgid "Select the option to show an advertisement on the right side of the site title"
+msgstr "Sélectionner l’option pour afficher une publicité sur le côté droit du titre du site"
+
+#: inc/customizer/big-news-panel.php:134 inc/customizer/footer-panel.php:126
+#: inc/customizer/front-layouts/news-layout1.php:250
+#: inc/customizer/front-layouts/news-layout2.php:255
+#: inc/customizer/front-layouts/news-layout4.php:243
+#: inc/customizer/front-layouts/news-layout5.php:266
+#: inc/customizer/front-layouts/news-layout5.php:358
+#: inc/customizer/front-layouts/news-layout6.php:228
+#: inc/customizer/front-layouts/news-layout7.php:230
+#: inc/customizer/header-panel.php:431 inc/customizer/main-news-panel.php:92
+#: inc/customizer/main-news-panel.php:268
+#: inc/customizer/main-news-panel.php:463
+#: inc/customizer/main-news-panel.php:638
+#: inc/customizer/themeoptions-panel.php:275
+#: inc/customizer/themeoptions-panel.php:859
+#: inc/customizer/themeoptions-panel.php:1068
+msgid "Select chronological order"
+msgstr "Sélectionner l’ordre chronologique"
+
+#: inc/customizer/front-layouts/news-layout3.php:189
+#: inc/template-functions.php:403
+msgid "Select page"
+msgstr "Sélectionner la page"
+
+#: inc/customizer/front-panel.php:179
+msgid "Select sub section to appear in fifth position"
+msgstr "Sélectionner la sous-section qui doit apparaître en cinquième position"
+
+#: inc/customizer/front-panel.php:96
+msgid "Select sub section to appear in second position"
+msgstr "Sélectionner la sous-section qui doit apparaître en deuxième position"
+
+#: inc/customizer/front-panel.php:265
+msgid "Select sub section to appear in eight position"
+msgstr "Sélectionner la sous-section qui doit apparaître en huitième position"
+
+#: inc/customizer/front-panel.php:69
+msgid "Select sub section to appear in first position"
+msgstr "Sélectionner la sous-section qui doit apparaître en première position"
+
+#: inc/customizer/front-panel.php:151
+msgid "Select sub section to appear in fourth position"
+msgstr "Sélectionner la sous-section qui doit apparaître en quatrième position"
+
+#: inc/customizer/front-panel.php:237
+msgid "Select sub section to appear in seventh position"
+msgstr "Sélectionner la sous-section qui doit apparaître en septième position"
+
+#: inc/customizer/front-panel.php:208
+msgid "Select sub section to appear in sixth position"
+msgstr "Sélectionner la sous-section qui doit apparaître en sixième position"
+
+#: inc/customizer/front-panel.php:123
+msgid "Select sub section to appear in third position"
+msgstr "Sélectionner la sous-section qui doit apparaître en troisième position"
+
+#: inc/customizer/front-layouts/news-layout3.php:172
+msgid "Select single video layout items"
+msgstr "Sélectionner les éléments de mise en page de vidéo unique"
+
+#: inc/customizer/customizer-color.php:199
+msgid "Select secondary theme color settings."
+msgstr "Sélectionner les réglages de couleur secondaire du thème."
+
+#: inc/customizer/big-news-panel.php:158 inc/customizer/footer-panel.php:148
+#: inc/customizer/front-layouts/news-layout1.php:273
+#: inc/customizer/front-layouts/news-layout2.php:312
+#: inc/customizer/front-layouts/news-layout4.php:266
+#: inc/customizer/front-layouts/news-layout5.php:289
+#: inc/customizer/front-layouts/news-layout5.php:380
+#: inc/customizer/front-layouts/news-layout6.php:251
+#: inc/customizer/front-layouts/news-layout7.php:253
+#: inc/customizer/header-panel.php:455 inc/customizer/main-news-panel.php:115
+#: inc/customizer/main-news-panel.php:290
+#: inc/customizer/main-news-panel.php:486
+#: inc/customizer/main-news-panel.php:661
+#: inc/customizer/themeoptions-panel.php:882
+#: inc/customizer/themeoptions-panel.php:1091
+msgid "Select category"
+msgstr "Sélectionner une catégorie"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:246
+msgid "Week %s"
+msgstr "Semaine %s"
+
+#: inc/customizer/footer-panel.php:398 inc/customizer/header-panel.php:250
+#: inc/customizer/themeoptions-panel.php:775
+msgid "social"
+msgstr "social"
+
+#: inc/customizer/front-panel.php:74 inc/customizer/front-panel.php:101
+#: inc/customizer/front-panel.php:128 inc/customizer/front-panel.php:156
+#: inc/customizer/front-panel.php:184 inc/customizer/front-panel.php:213
+#: inc/customizer/front-panel.php:242 inc/customizer/front-panel.php:269
+msgid "Block One sub section"
+msgstr "Sous-section de bloc 1"
+
+#: inc/customizer/front-layouts/news-layout2.php:16
+#: inc/customizer/front-panel.php:75 inc/customizer/front-panel.php:102
+#: inc/customizer/front-panel.php:129 inc/customizer/front-panel.php:157
+#: inc/customizer/front-panel.php:185 inc/customizer/front-panel.php:214
+#: inc/customizer/front-panel.php:243 inc/customizer/front-panel.php:270
+msgid "Block Two sub section"
+msgstr "Sous-section de bloc 2"
+
+#: inc/customizer/front-layouts/news-layout3.php:17
+#: inc/customizer/front-panel.php:76 inc/customizer/front-panel.php:103
+#: inc/customizer/front-panel.php:130 inc/customizer/front-panel.php:158
+#: inc/customizer/front-panel.php:186 inc/customizer/front-panel.php:215
+#: inc/customizer/front-panel.php:244 inc/customizer/front-panel.php:271
+msgid "Block Three sub section"
+msgstr "Sous-section de bloc 3"
+
+#: inc/customizer/front-layouts/news-layout4.php:16
+#: inc/customizer/front-panel.php:77 inc/customizer/front-panel.php:104
+#: inc/customizer/front-panel.php:131 inc/customizer/front-panel.php:159
+#: inc/customizer/front-panel.php:187 inc/customizer/front-panel.php:216
+#: inc/customizer/front-panel.php:245 inc/customizer/front-panel.php:272
+msgid "Block Four sub section"
+msgstr "Sous-section de bloc 4"
+
+#: inc/customizer/front-layouts/news-layout5.php:16
+#: inc/customizer/front-panel.php:78 inc/customizer/front-panel.php:105
+#: inc/customizer/front-panel.php:132 inc/customizer/front-panel.php:160
+#: inc/customizer/front-panel.php:188 inc/customizer/front-panel.php:217
+#: inc/customizer/front-panel.php:246 inc/customizer/front-panel.php:273
+msgid "Block Five sub section"
+msgstr "Sous-section de bloc 5"
+
+#: inc/customizer/front-layouts/news-layout6.php:16
+#: inc/customizer/front-panel.php:79 inc/customizer/front-panel.php:106
+#: inc/customizer/front-panel.php:133 inc/customizer/front-panel.php:161
+#: inc/customizer/front-panel.php:189 inc/customizer/front-panel.php:218
+#: inc/customizer/front-panel.php:247 inc/customizer/front-panel.php:274
+msgid "Block Six sub section"
+msgstr "Sous-section de bloc 6"
+
+#: inc/customizer/front-layouts/news-layout7.php:16
+#: inc/customizer/front-panel.php:80 inc/customizer/front-panel.php:107
+#: inc/customizer/front-panel.php:134 inc/customizer/front-panel.php:162
+#: inc/customizer/front-panel.php:190 inc/customizer/front-panel.php:219
+#: inc/customizer/front-panel.php:248 inc/customizer/front-panel.php:275
+msgid "Block Seven sub section"
+msgstr "Sous-section de bloc 7"
+
+#: inc/customizer/front-layouts/blog-only.php:15
+#: inc/customizer/front-panel.php:81 inc/customizer/front-panel.php:108
+#: inc/customizer/front-panel.php:135 inc/customizer/front-panel.php:163
+#: inc/customizer/front-panel.php:191 inc/customizer/front-panel.php:220
+#: inc/customizer/front-panel.php:249 inc/customizer/front-panel.php:276
+msgid "Block Blog Post sub section"
+msgstr "Sous-section de bloc d’article de blog"
+
+#: inc/theme-info/about.php:42
+msgid "Support"
+msgstr "Support"
+
+#: inc/customizer/main-news-panel.php:433
+msgid "Image size minimum (1440px X 800px)"
+msgstr "Taille minimale de l’image (1440px x 800px)"
+
+#: inc/customizer/themeoptions-panel.php:164
+msgid "Text for full view here button"
+msgstr "Texte du bouton de vue complète"
+
+#: inc/customizer/themeoptions-panel.php:146
+msgid "Text for read more button"
+msgstr "Texte du bouton lire la suite"
+
+#: inc/customizer/big-news-panel.php:118 inc/customizer/footer-panel.php:112
+#: inc/customizer/footer-panel.php:209 inc/customizer/footer-panel.php:273
+#: inc/customizer/footer-panel.php:332
+#: inc/customizer/front-layouts/blog-only.php:80
+#: inc/customizer/front-layouts/news-layout1.php:234
+#: inc/customizer/front-layouts/news-layout2.php:238
+#: inc/customizer/front-layouts/news-layout3.php:80
+#: inc/customizer/front-layouts/news-layout4.php:227
+#: inc/customizer/front-layouts/news-layout6.php:212
+#: inc/customizer/front-layouts/news-layout7.php:214
+#: inc/customizer/header-panel.php:415 inc/customizer/main-news-panel.php:75
+#: inc/customizer/main-news-panel.php:253
+#: inc/customizer/main-news-panel.php:449
+#: inc/customizer/main-news-panel.php:624
+#: inc/customizer/themeoptions-panel.php:260
+#: inc/customizer/themeoptions-panel.php:498
+#: inc/customizer/themeoptions-panel.php:842
+#: inc/customizer/themeoptions-panel.php:1051
+msgid "Title"
+msgstr "Titre"
+
+#: inc/customizer/themeoptions-panel.php:704
+msgid "Site author title"
+msgstr "Titre de l’auteur/autrice du site"
+
+#: inc/customizer/header-panel.php:144
+msgid "Location Title"
+msgstr "Titre de l’emplacement"
+
+#: inc/customizer/front-layouts/news-layout5.php:343
+msgid "Title for second column"
+msgstr "Titre de la deuxième colonne"
+
+#: inc/customizer/front-layouts/news-layout5.php:251
+msgid "Title for first column"
+msgstr "Titre de la première colonne"
+
+#: inc/dropdown-author.php:27
+msgid "All authors"
+msgstr "Tous les auteurs/autrices"
+
+#: inc/theme-info/about.php:48
+msgid "Find step-by-step instructions to set up the theme easily."
+msgstr "Trouvez des instructions étape par étape pour facilement configurer le thème."
+
+#: inc/customizer/front-layouts/blog-only.php:95
+msgid "Blog Post section layout types"
+msgstr "Types de mise en page de la section d’article de blog"
+
+#: inc/customizer/front-layouts/news-layout3.php:123
+msgid "Featured video Url"
+msgstr "URL de vidéo mise en avant"
+
+#: inc/customizer/front-panel.php:54
+msgid "Use the below selection to change the order of appearance of different block subsections in the body block section. Note:- Same block subsection can not be used at two places. If it is repeated then only the first selected block will be shown"
+msgstr "Utilisez la sélection ci-dessous pour modifier l’ordre d’apparition des différentes sous-sections de bloc dans la section du bloc de corps. Note : la même sous-section de bloc ne peut pas être utilisée à deux endroits. Si elle est répétée, seul le premier bloc sélectionné sera affiché"
+
+#: inc/repeater/class-control-repeater.php:371
+msgid "Hex Value"
+msgstr "Valeur hexadécimale"
+
+#: inc/theme-info/about.php:57
+msgid "Check recommended actions"
+msgstr "Vérifier les actions recommandées"
+
+#: inc/theme-info/about.php:87
+msgid "Please install the PostmagThemes Demo Import plugin to import the demo content. After activation go to Appearance >> Import Demo Data and import it."
+msgstr "Veuillez installer l’extension PostmagThemes Demo Import pour importer le contenu de la démo. Après l’activation, allez dans Apparence >> Importer des données de démo et importez-les."
+
+#: inc/customizer/customizer.php:105 inc/customizer/customizer.php:118
+#: inc/customizer/customizer.php:131 inc/customizer/customizer.php:144
+#: inc/customizer/customizer.php:157 inc/customizer/customizer.php:170
+#: inc/customizer/front-layouts/news-layout3.php:195
+msgid "Video"
+msgstr "Vidéo"
+
+#. translators: %s: Label
+#: inc/customizer/main-news-panel.php:534
+msgid "Show %s"
+msgstr "Voir %s"
+
+#: inc/theme-info/about.php:25
+msgid "View Demo"
+msgstr "Voir la démo"
+
+#: inc/customizer/customizer.php:104 inc/customizer/customizer.php:117
+#: inc/customizer/customizer.php:130 inc/customizer/customizer.php:143
+#: inc/customizer/customizer.php:156 inc/customizer/customizer.php:169
+#: inc/customizer/customizer.php:182 inc/customizer/customizer.php:195
+#: inc/theme-info/about.php:29 inc/theme-info/about.php:49
+#: inc/theme-info/about.php:109
+msgid "View documentation"
+msgstr "Voir la documentation"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s commentaire sur « %2$s »"
+msgstr[1] "%1$s commentaires sur « %2$s »"
+
+#. translators: 1: no of minute required to read he post
+#: inc/template-functions.php:502
+msgid "%s min"
+msgid_plural "%s min"
+msgstr[0] "%s minute"
+msgstr[1] "%s minutes"
+
+#: inc/template-functions.php:44 inc/template-functions.php:71
+msgid "November 20, 2018"
+msgstr "20 novembre 2018"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Aïe ! Cette page est introuvable."
+
+#: functions.php:153
+msgid "Add CNM: widgets here to appear in body block section"
+msgstr "Ajout CNM : les widgets ici apparaissent dans la section de bloc de corps"
+
+#: functions.php:144 functions.php:162
+msgid "Add any widgets here"
+msgstr "Ajoutez des widgets ici"
+
+#: functions.php:172
+msgid "Add any widget here to show on the blog page. Use HTML widget to show advertisement. It also needs to enable from each block."
+msgstr "Ajoutez n’importe quel widget ici pour l’afficher sur la page du blog. Utilisez le widget HTML pour afficher de la publicité. Ceci doit aussi être activé à partir de chaque bloc."
+
+#: template-parts/content-single.php:59
+msgid "Previous post"
+msgstr "Article précédent"
+
+#: template-parts/content-single.php:58
+msgid "Next post"
+msgstr "Article suivant"
+
+#: functions.php:160
+msgid "Footer bar"
+msgstr "Barre de pied de page"
+
+#: functions.php:151
+msgid "Body block section bar area"
+msgstr "Barre de zone de section de bloc de corps"
+
+#: inc/template-functions.php:40 inc/template-functions.php:67
+msgid "Color NewsMagazine, New York"
+msgstr "Color NewsMagazine, New York"
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Contenu Introuvable. L'outil de Recherche ou les Liens ci-dessous vous remettront peut-être sur la voie&hellip;"
+
+#: inc/template-functions.php:48 inc/template-functions.php:75
+msgid "Last published, 5 minutes ago"
+msgstr "Dernière publication, il y a 5 minutes"
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères de recherche. Veuillez réessayer avec d’autres mots-clés."
+
+#: inc/template-functions.php:551
+msgid "Close"
+msgstr "Fermer"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semblerait que nous ne soyons pas en mesure de trouver votre contenu. Essayez en lançant une recherche."
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: inc/customizer/themeoptions-panel.php:137
+#: template-parts/content-1column.php:67 template-parts/content-1column.php:68
+#: template-parts/content-1column.php:74 template-parts/content-list.php:63
+#: template-parts/content-list.php:64 template-parts/content-list.php:70
+#: template-parts/content.php:73 template-parts/content.php:74
+#: template-parts/content.php:80
+msgid "Read more"
+msgstr "Lire la suite"
+
+#. Template Name of the theme
+msgid "Color newsmagazine template"
+msgstr "Modèle Color Newsmagazine"
+
+#: template-parts/content-page.php:37 template-parts/content-single.php:37
+msgid "Pages :"
+msgstr "﻿Pages :"
+
+#: news-layouts/layouts-20.php:55 template-parts/content-archive-search.php:54
+#: template-parts/content-archive-search.php:120
+msgid "Previous"
+msgstr "Précédent"
+
+#: functions.php:170
+msgid "First advertisement bar area"
+msgstr "Première zone de barre publicitaire"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Prêt·e à publier votre premier article ? <a href=\"%1$s\">Lancez-vous ici</a>."
+
+#: functions.php:76
+msgid "Primary"
+msgstr "Principal"
+
+#. translators: %s: search query.
+#: search.php:18 single.php:89 single.php:161
+msgid "Search Result For: %s"
+msgstr "Résultats de recherche pour : %s "
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Rien n’a été trouvé"
+
+#: news-layouts/layouts-20.php:56 template-parts/content-archive-search.php:55
+#: template-parts/content-archive-search.php:121
+msgid "Next"
+msgstr "Suivant"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Une réflexion sur &ldquo; %1$s &rdquo;"
+
+#: inc/customizer/themeoptions-panel.php:155 inc/template-functions.php:547
+msgid "Full view here"
+msgstr "Vue complète ici"
+
+#: functions.php:142 inc/customizer/customizer-color.php:108
+msgid "Sidebar area"
+msgstr "Zone de colonne latérale"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.postmagthemes.com/"
+msgstr "https://www.postmagthemes.com/"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.postmagthemes.com/downloads/color-newsmagazine-free-wordpress-theme/"
+msgstr "https://www.postmagthemes.com/downloads/color-newsmagazine-free-wordpress-theme/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "postmagthemes"
+msgstr "postmagthemes"
